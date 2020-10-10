@@ -1,0 +1,13 @@
+D:\лабы ооп\laba5_oop\laba5_oop\bin\Debug\netcoreapp3.1\laba5_oop.exe
+D:\лабы ооп\laba5_oop\laba5_oop\bin\Debug\netcoreapp3.1\laba5_oop.deps.json
+D:\лабы ооп\laba5_oop\laba5_oop\bin\Debug\netcoreapp3.1\laba5_oop.runtimeconfig.json
+D:\лабы ооп\laba5_oop\laba5_oop\bin\Debug\netcoreapp3.1\laba5_oop.runtimeconfig.dev.json
+D:\лабы ооп\laba5_oop\laba5_oop\bin\Debug\netcoreapp3.1\laba5_oop.dll
+D:\лабы ооп\laba5_oop\laba5_oop\bin\Debug\netcoreapp3.1\laba5_oop.pdb
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.csprojAssemblyReference.cache
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.AssemblyInfoInputs.cache
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.AssemblyInfo.cs
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.csproj.CoreCompileInputs.cache
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.dll
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.pdb
+D:\лабы ооп\laba5_oop\laba5_oop\obj\Debug\netcoreapp3.1\laba5_oop.genruntimeconfig.cache
